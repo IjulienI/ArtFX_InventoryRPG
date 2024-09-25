@@ -1,6 +1,20 @@
 #include "nonConsumable.h"
 
-void nonConsumable::Sell()
+NonConsumable::NonConsumable()
 {
-	std::cout << "Function not Override" << std::endl;
+}
+
+NonConsumable::~NonConsumable()
+{
+}
+
+int NonConsumable::Sell()
+{
+	mAmount--;
+	return GetPrice();
+}
+
+int NonConsumable::GetPrice()
+{
+	return mPrice;
 }

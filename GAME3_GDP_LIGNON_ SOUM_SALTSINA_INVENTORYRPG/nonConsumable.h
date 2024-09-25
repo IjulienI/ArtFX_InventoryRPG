@@ -2,10 +2,16 @@
 
 #include "item.h"
 
-class nonConsumable : public item
+class NonConsumable : public Item
 {
 public:
-	int price;
-	virtual void Sell();
-};
+	NonConsumable();
+	~NonConsumable();
 
+private:
+	int mPrice = 0;
+
+public:
+	int Sell();
+	int GetPrice();
+};

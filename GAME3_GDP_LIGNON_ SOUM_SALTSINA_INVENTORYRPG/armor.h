@@ -2,16 +2,21 @@
 
 #include "gear.h"
 
-enum Class {
-
+enum ArmorClass {
+	NONE,
+	HELMET,
+	CHESTPLATE,
+	LEGGINGS,
+	BOOTS
 };
-enum Type {
-
-};
-class armor : public gear
+class Armor : public Gear
 {
 public:
+	Armor();
+	Armor(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, ArmorClass armorClass, int protection, int price);
+	~Armor();
 
-	void Equip() override;
+	int mProtection = 0;
+	ArmorClass mClass = ArmorClass::NONE;
 };
 

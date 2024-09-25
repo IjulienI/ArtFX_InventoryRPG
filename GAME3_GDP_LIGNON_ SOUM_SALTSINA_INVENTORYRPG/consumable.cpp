@@ -1,6 +1,6 @@
 #include "consumable.h"
 
-void consumable::Use()
+void Consumable::Use()
 {
 	std::cout << "Function not Override" << std::endl;
 }

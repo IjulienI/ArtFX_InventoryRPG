@@ -1,6 +1,6 @@
 #include "gear.h"
 
-void gear::Equip()
+void Gear::Equip()
 {
 	std::cout << "Function not Override" << std::endl;
 }

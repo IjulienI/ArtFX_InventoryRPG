@@ -2,9 +2,8 @@
 
 #include "nonConsumable.h"
 
-class gear : public nonConsumable
+class Gear : public NonConsumable
 {
 public:
 	virtual void Equip();
 };
-

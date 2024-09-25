@@ -1,5 +1,5 @@
 #include "ore.h"
 
-void ore::Sell()
+void Ore::Sell()
 {
 }

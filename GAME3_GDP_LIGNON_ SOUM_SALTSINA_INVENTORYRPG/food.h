@@ -2,15 +2,23 @@
 
 #include "consumable.h"
 
-enum Type
+enum FoodType
 {
-
+	NONE,
+	SOUP,
+	MEAT,
+	JELLY
 };
-class food : public consumable
+
+class Food : public Consumable
 {
 public:
 
-	int amountRegen;
+	Food();
+	Food(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, FoodType type, int amountRegen);
+	~Food();
+	int mAmountRegen = 0;
+	FoodType mType = FoodType::NONE;
 
 	void Use() override;
 };

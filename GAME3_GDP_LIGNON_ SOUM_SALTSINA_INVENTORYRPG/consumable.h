@@ -2,14 +2,8 @@
 
 #include "item.h"
 
-class consumable : public item
+class Consumable : public Item
 {
-protected :
-	enum affects
-	{
-
-	};
-
 public:
 	virtual void Use();
 };

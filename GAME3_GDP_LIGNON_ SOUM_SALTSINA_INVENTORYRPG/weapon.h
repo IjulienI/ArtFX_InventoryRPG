@@ -2,14 +2,20 @@
 
 #include "gear.h"
 
-enum Type {
-
+enum WeaponType {
+	NONE,
+	SWORD,
+	BOW,
+	STAFF
 };
-class weapon : public gear
+class Weapon : public Gear
 {
 public:
-	float damage;
+	Weapon();
+	Weapon(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, WeaponType type, int damage, int price);
+	~Weapon();
 
-	void Equip() override;
+	int mDamage = 0;
+	WeaponType mType = WeaponType::NONE;
 };
 
