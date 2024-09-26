@@ -8,10 +8,7 @@ public:
 	NonConsumable();
 	~NonConsumable();
 
-private:
-	int mPrice = 0;
+protected:
 
 public:
-	int Sell();
-	int GetPrice();
 };

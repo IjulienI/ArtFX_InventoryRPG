@@ -1,2 +1,15 @@
-﻿  food.cpp
-  GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj -> C:\Users\julien.soum\Documents\GitHub\ArtFX_InventoryRPG\x64\Debug\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.exe
+﻿  armor.cpp
+  consumable.cpp
+C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\armor.h(6,2): error C2365: 'NONE': redefinition; previous definition was 'enumerator'
+  food.cpp
+C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\food.h(7,2): error C2365: 'NONE': redefinition; previous definition was 'enumerator'
+  gear.cpp
+  inventory.cpp
+  item.cpp
+  nonConsumable.cpp
+  ore.cpp
+  potion.cpp
+C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\potion.h(6,2): error C2365: 'NONE': redefinition; previous definition was 'enumerator'
+  weapon.cpp
+C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\weapon.h(6,2): error C2365: 'NONE': redefinition; previous definition was 'enumerator'
+  Generating Code...

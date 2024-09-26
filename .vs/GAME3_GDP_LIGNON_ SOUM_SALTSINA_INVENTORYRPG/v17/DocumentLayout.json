@@ -1,81 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\",
+  "WorkspaceRootPath": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D949DA5F-47FD-46D9-8042-7DCCE315A51D}|GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj|solutionrelative:GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -86,119 +94,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "armor.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxUAAAABAAAA",
+              "DocumentIndex": 11,
+              "Title": "weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T09:04:59.617Z",
+              "WhenOpened": "2024-09-25T09:07:38.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T14:46:10.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "item.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-25T11:27:47.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "weapon.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T09:07:38.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "ore.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T09:09:25.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:09:25.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "nonConsumable.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-25T08:23:57.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "DocumentIndex": 15,
+              "Title": "armor.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T08:21:26.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "gear.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T09:02:34.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:04:59.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "potion.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "consumable.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T12:05:41.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T08:21:26.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
+              "Title": "gear.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T09:02:34.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "potion.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T12:05:41.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -206,11 +221,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "food.cpp",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -224,53 +239,63 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ore.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\ore.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-25T09:07:58.32Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "gear.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T09:01:45.176Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "nonConsumable.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\nonConsumable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-25T08:21:50.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "gear.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\gear.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T09:01:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inventory.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\inventory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T14:38:03.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "item.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\item.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-25T08:07:43.185Z",
               "EditorCaption": ""
@@ -279,65 +304,62 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "armor.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\armor.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T09:02:51.207Z",
+              "WhenOpened": "2024-09-25T09:02:51.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "food.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
+              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
+              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T08:26:26.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "weapon.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\weapon.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T09:05:23.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:05:23.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "consumable.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\consumable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T08:19:45.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T08:19:45.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "potion.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
+              "DocumentMoniker": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
               "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
+              "ToolTip": "C:\\Users\\julien.soum\\Desktop\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
               "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\potion.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T08:33:16.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "food.h",
-              "DocumentMoniker": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
-              "RelativeDocumentMoniker": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
-              "ToolTip": "C:\\Users\\julien.soum\\Documents\\GitHub\\ArtFX_InventoryRPG\\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
-              "RelativeToolTip": "GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\\food.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-25T08:26:26.576Z"
+              "WhenOpened": "2024-09-25T08:33:16.166Z"
             }
           ]
         }

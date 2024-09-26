@@ -18,6 +18,14 @@ Item::~Item()
 {
 }
 
+
+
+int Item::Sell()
+{
+	mAmount--;
+	return GetPrice();
+}
+
 std::string Item::GetName()
 {
 	return mName;
@@ -41,4 +49,9 @@ int Item::GetAmount()
 int Item::GetWeight()
 {
 	return mWeight;
+}
+
+int Item::GetPrice()
+{
+	return mPrice;
 }

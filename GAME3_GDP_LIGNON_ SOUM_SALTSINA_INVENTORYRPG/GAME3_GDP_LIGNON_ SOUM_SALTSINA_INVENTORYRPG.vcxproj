@@ -23,6 +23,7 @@
     <ClCompile Include="consumable.cpp" />
     <ClCompile Include="food.cpp" />
     <ClCompile Include="gear.cpp" />
+    <ClCompile Include="inventory.cpp" />
     <ClCompile Include="item.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="nonConsumable.cpp" />
@@ -35,6 +36,7 @@
     <ClInclude Include="consumable.h" />
     <ClInclude Include="food.h" />
     <ClInclude Include="gear.h" />
+    <ClInclude Include="inventory.h" />
     <ClInclude Include="item.h" />
     <ClInclude Include="nonConsumable.h" />
     <ClInclude Include="ore.h" />
