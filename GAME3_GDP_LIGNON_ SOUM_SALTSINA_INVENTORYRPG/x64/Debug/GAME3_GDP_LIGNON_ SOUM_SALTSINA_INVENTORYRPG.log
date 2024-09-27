@@ -1,6 +1,6 @@
 ﻿  mainScene.cpp
-C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,67): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj -> C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\x64\Debug\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.exe
+C:\Users\Julien\Documents\GitHub\ProjectDespairBuild\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,48): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+C:\Users\Julien\Documents\GitHub\ProjectDespairBuild\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,48): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Julien\Documents\GitHub\ProjectDespairBuild\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,82): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+C:\Users\Julien\Documents\GitHub\ProjectDespairBuild\ArtFX_InventoryRPG\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG\constant.h(18,82): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.vcxproj -> C:\Users\Julien\Documents\GitHub\ProjectDespairBuild\ArtFX_InventoryRPG\x64\Debug\GAME3_GDP_LIGNON_ SOUM_SALTSINA_INVENTORYRPG.exe

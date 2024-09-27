@@ -9,7 +9,7 @@ const Vector2 WINDOW_SIZE = { 1080,720 };
 const int FRAME_LIMIT = 144;
 const Color BACKGROUND_COLORATION = GRAY;
 const int PIXELS_PER_METER = 5;
-const Vector2 INVENTORY_SQUARE = {};
+const float INVENTORY_SIZE = 6;
 
 
 //TILES

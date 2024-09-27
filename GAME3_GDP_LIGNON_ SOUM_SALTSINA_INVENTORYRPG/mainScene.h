@@ -6,6 +6,7 @@
 #include "vector"
 #include <algorithm>
 #include <iostream>
+#include "item.h"
 
 class MainScene : public Scene {
 public:
@@ -18,4 +19,6 @@ public:
 
 private:
 	Texture2D mBackGround = LoadTexture("../src/BackGroundImage.png");
+
+	std::vector<Item*> mInventory;
 };
