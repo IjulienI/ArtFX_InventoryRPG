@@ -8,7 +8,6 @@ Item::Item(std::string name, std::string description, std::string hiddenDesctrip
 {
 	mName = name;
 	mDescription = description;
-	mHiddenDescription = hiddenDesctription;
 	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;
@@ -34,11 +33,6 @@ std::string Item::GetName()
 std::string Item::GetDescription()
 {
 	return mDescription;
-}
-
-std::string Item::GetHiddenDescription()
-{
-	return mHiddenDescription;
 }
 
 int Item::GetAmount()

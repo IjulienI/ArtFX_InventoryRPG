@@ -8,7 +8,6 @@ Weapon::Weapon(std::string name, std::string description, std::string hiddenDesc
 {
 	mName = name;
 	mDescription = description;
-	mHiddenDescription = hiddenDesctription;
 	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;

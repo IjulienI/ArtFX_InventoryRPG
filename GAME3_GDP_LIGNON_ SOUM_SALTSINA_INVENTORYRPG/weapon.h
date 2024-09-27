@@ -2,7 +2,7 @@
 
 #include "gear.h"
 
-enum WeaponType {
+enum class WeaponType {
 	NONE,
 	SWORD,
 	BOW,
@@ -18,4 +18,3 @@ public:
 	int mDamage = 0;
 	WeaponType mType = WeaponType::NONE;
 };
-

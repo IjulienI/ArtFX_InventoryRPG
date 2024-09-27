@@ -8,7 +8,6 @@ Armor::Armor(std::string name, std::string description, std::string hiddenDesctr
 {
 	mName = name;
 	mDescription = description;
-	mHiddenDescription = hiddenDesctription;
 	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;

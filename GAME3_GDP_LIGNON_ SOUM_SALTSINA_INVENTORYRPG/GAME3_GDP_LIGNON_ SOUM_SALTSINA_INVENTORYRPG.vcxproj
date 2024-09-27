@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="application.cpp" />
     <ClCompile Include="armor.cpp" />
     <ClCompile Include="consumable.cpp" />
     <ClCompile Include="food.cpp" />
@@ -26,21 +27,29 @@
     <ClCompile Include="inventory.cpp" />
     <ClCompile Include="item.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mainScene.cpp" />
     <ClCompile Include="nonConsumable.cpp" />
     <ClCompile Include="ore.cpp" />
     <ClCompile Include="potion.cpp" />
+    <ClCompile Include="scene.cpp" />
+    <ClCompile Include="sceneManager.cpp" />
     <ClCompile Include="weapon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="application.h" />
     <ClInclude Include="armor.h" />
+    <ClInclude Include="constant.h" />
     <ClInclude Include="consumable.h" />
     <ClInclude Include="food.h" />
     <ClInclude Include="gear.h" />
     <ClInclude Include="inventory.h" />
     <ClInclude Include="item.h" />
+    <ClInclude Include="mainScene.h" />
     <ClInclude Include="nonConsumable.h" />
     <ClInclude Include="ore.h" />
     <ClInclude Include="potion.h" />
+    <ClInclude Include="scene.h" />
+    <ClInclude Include="sceneManager.h" />
     <ClInclude Include="weapon.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -129,10 +138,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\raylib\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\raylib\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>raylib.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -143,12 +155,15 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\raylib\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\julien.soum\Desktop\ArtFX_InventoryRPG\raylib\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>raylib.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

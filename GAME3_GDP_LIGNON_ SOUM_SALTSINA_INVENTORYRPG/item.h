@@ -21,7 +21,6 @@ public:
 protected:
 	std::string mName = "";
 	std::string mDescription = "";
-	std::string mHiddenDescription = "";
 	std::string mImagePath = "";
 	int mAmount = 0;
 	int mWeight = 0;
@@ -32,7 +31,6 @@ public:
 	int Sell();
 	std::string GetName();
 	std::string GetDescription();
-	std::string GetHiddenDescription();
 	int GetAmount();
 	int GetWeight();
 	int GetPrice();

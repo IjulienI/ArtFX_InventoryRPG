@@ -8,7 +8,6 @@ Food::Food(std::string name, std::string description, std::string hiddenDesctrip
 {
 	mName = name;
 	mDescription = description;
-	mHiddenDescription = hiddenDesctription;
 	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;

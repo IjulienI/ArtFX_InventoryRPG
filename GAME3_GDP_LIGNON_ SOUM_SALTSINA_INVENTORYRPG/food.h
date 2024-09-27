@@ -2,7 +2,7 @@
 
 #include "consumable.h"
 
-enum FoodType
+enum class FoodType
 {
 	NONE,
 	SOUP,

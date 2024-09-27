@@ -2,7 +2,7 @@
 
 #include "gear.h"
 
-enum ArmorClass {
+enum class ArmorClass {
 	NONE,
 	HELMET,
 	CHESTPLATE,

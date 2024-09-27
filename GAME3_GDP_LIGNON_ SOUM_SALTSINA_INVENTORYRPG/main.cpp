@@ -1,5 +1,9 @@
+#include "application.h"
 
+//#define RAYGUI_IMPLEMENTATION
+//#include "raygui.h"
 
 int main() {
-	return 0;
+    app = new Application();
+    return 0;
 }

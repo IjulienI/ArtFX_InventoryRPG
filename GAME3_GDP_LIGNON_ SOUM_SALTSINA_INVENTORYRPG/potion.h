@@ -2,7 +2,7 @@
 
 #include "consumable.h"
 
-enum Buff {
+enum class Buff {
 	NONE,
 	REGENERATION,
 	KNOCKBACK,
