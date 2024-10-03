@@ -13,7 +13,7 @@ class Armor : public Gear
 {
 public:
 	Armor();
-	Armor(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, ArmorClass armorClass, int protection, int price);
+	Armor(std::string name, std::string description, char imagePath, int amount, int weight,Rarity rarity, ArmorClass armorClass, int protection, int price);
 	~Armor();
 
 	int mProtection = 0;

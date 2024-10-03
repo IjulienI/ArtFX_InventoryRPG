@@ -2,6 +2,7 @@
 
 #include "string"
 #include "iostream"
+#include "constant.h"
 
 enum Rarity {
 	NONE,
@@ -15,13 +16,13 @@ class Item
 public:
 
 	Item();
-	Item(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight);
+	Item(std::string name, std::string description, Texture2D texture, int amount, int weight, Rarity rarity);
 	~Item();
 
 protected:
 	std::string mName = "";
 	std::string mDescription = "";
-	std::string mImagePath = "";
+	Texture2D mTexture;
 	int mAmount = 0;
 	int mWeight = 0;
 	int mPrice = 0;
@@ -34,5 +35,6 @@ public:
 	int GetAmount();
 	int GetWeight();
 	int GetPrice();
+	Texture2D GetTexture();
 };
 

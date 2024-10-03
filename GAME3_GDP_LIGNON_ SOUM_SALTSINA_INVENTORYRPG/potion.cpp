@@ -4,11 +4,10 @@ Potion::Potion()
 {
 }
 
-Potion::Potion(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, Buff buff, int level)
+Potion::Potion(std::string name, std::string description, char imagePath, int amount, int weight, Buff buff, int level)
 {
 	mName = name;
 	mDescription = description;
-	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;
 	mBuff = buff;

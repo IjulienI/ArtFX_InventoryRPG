@@ -3,10 +3,11 @@
 #include "nonConsumable.h"
 
 enum OreType {
-	GOLD,
+	GOLDEN,
 	IRON,
 	COPPER
 };
+
 class Ore : public NonConsumable
 {
 public:

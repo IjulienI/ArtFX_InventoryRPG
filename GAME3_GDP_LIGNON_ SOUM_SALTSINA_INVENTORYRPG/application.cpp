@@ -11,7 +11,7 @@ Application::~Application() {
 
 void Application::Init()
 {
-	InitWindow(WINDOW_SIZE.x, WINDOW_SIZE.y, "TowerDefence - ArtFx");
+	InitWindow(WINDOW_SIZE.x, WINDOW_SIZE.y, "Inventory - ArtFx");
 	//SetWindowState(FLAG_FULLSCREEN_MODE);
 	SetTargetFPS(FRAME_LIMIT);
 

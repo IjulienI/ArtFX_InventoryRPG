@@ -33,6 +33,7 @@
     <ClCompile Include="potion.cpp" />
     <ClCompile Include="scene.cpp" />
     <ClCompile Include="sceneManager.cpp" />
+    <ClCompile Include="Slot.cpp" />
     <ClCompile Include="weapon.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +51,7 @@
     <ClInclude Include="potion.h" />
     <ClInclude Include="scene.h" />
     <ClInclude Include="sceneManager.h" />
+    <ClInclude Include="Slot.h" />
     <ClInclude Include="weapon.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

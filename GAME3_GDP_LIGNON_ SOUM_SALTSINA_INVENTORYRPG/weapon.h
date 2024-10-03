@@ -12,7 +12,7 @@ class Weapon : public Gear
 {
 public:
 	Weapon();
-	Weapon(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight, WeaponType type, int damage, int price);
+	Weapon(std::string name, std::string description, char imagePath, int amount, int weight, WeaponType type, int damage, int price);
 	~Weapon();
 
 	int mDamage = 0;

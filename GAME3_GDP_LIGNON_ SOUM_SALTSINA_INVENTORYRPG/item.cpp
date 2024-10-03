@@ -4,13 +4,14 @@ Item::Item()
 {
 }
 
-Item::Item(std::string name, std::string description, std::string hiddenDesctription, std::string imagePath, int amount, int weight)
+Item::Item(std::string name, std::string description, Texture2D texture, int amount, int weight, Rarity rarity)
 {
 	mName = name;
 	mDescription = description;
-	mImagePath = imagePath;
 	mAmount = amount;
 	mWeight = weight;
+	mRarity = rarity;
+	mTexture = texture;
 }
 
 Item::~Item()
@@ -48,4 +49,9 @@ int Item::GetWeight()
 int Item::GetPrice()
 {
 	return mPrice;
+}
+
+Texture2D Item::GetTexture()
+{
+	return mTexture;
 }
